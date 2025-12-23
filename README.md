@@ -4,6 +4,8 @@ This repository contains comprehensive datasets and scraping scripts for the Loc
 
 The project automates the extraction of election results from the State Election Commission's official results portals, consolidating data across all 14 districts into a unified, analyzable format.
 
+**Target Website**: https://sec.kerala.gov.in/public/onser/trend
+
 ## 📂 Dataset Overview
 
 The repository hosts the complete election results with over **67,000+ rows** of data.
