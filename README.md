@@ -48,7 +48,8 @@ The repository hosts the complete election results with over **67,000+ rows** of
 │   ├── 2020_Scapping_Code.ipynb         # Hybrid scraper for 2020
 │   └── 2025_Scapping_code.ipynb         # Universal scraper for 2025
 │
-├── Sample_Output/
-│   └── Kerala_LocalBodies_Election_Sample_100rows_UTF8.csv
+├── Sample_100rows_Kerala_LocalBodies_Election.csv    # Sample scapped data ( 100 rows )
+│
+├── Trail and Error.ipynb                             # Code used to identify website structure
 │
 └── requirements.txt
